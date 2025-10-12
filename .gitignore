@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Environment Variables (NEVER commit this!)
+.env
+
+# Data Files (keep local only)
+*.csv
+downloaded_*.csv
+
+# OS Files
+.DS_Store
+.vscode/
+.idea/
+
+# Test outputs
+test_data.csv
+downloaded_test.csv
