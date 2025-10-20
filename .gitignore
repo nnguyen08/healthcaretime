@@ -4,18 +4,20 @@ env/
 *.pyc
 __pycache__/
 
-# Environment Variables (NEVER commit this!)
+# Environment Variables
 .env
 
-# Data Files (keep local only)
+# Data Files
 *.csv
 downloaded_*.csv
+data/generated/
 
 # OS Files
 .DS_Store
-.vscode/
-.idea/
 
-# Test outputs
-test_data.csv
-downloaded_test.csv
+# VS Code (optional - most people commit this)
+# .vscode/
+
+# Test files
+test_*.py.vscode/
+test_*.py
