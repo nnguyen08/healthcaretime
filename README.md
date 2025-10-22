@@ -1,6 +1,6 @@
-# HealthFlow S3Helper
+# Hospital Wait Time Prediction
 
-A Python library for simplified AWS S3 operations, built as part of the HealthFlow healthcare data pipeline project.
+A Web Application to Help Families With Knowing a Baseline of Wait-times For Their Hospital Appointments
 
 ## Overview
 
